@@ -1,0 +1,27 @@
+\begin{thebibliography}{1}
+
+\bibitem{website:brightness}
+Photoshop help / apply a brightness/contrast adjustment.
+\newblock
+  \url{https://helpx.adobe.com/photoshop/using/apply-brightness-contrast-adjustment.html}.
+
+\bibitem{website:colors}
+Photoshop help / understand color adjustments.
+\newblock \url{https://helpx.adobe.com/photoshop/using/color-adjustments.html}.
+
+\bibitem{website:levels}
+Photoshop help / levels adjustment.
+\newblock \url{https://helpx.adobe.com/photoshop/using/levels-adjustment.html}.
+
+\bibitem{website:exposure}
+Image processing in python using skimage exposure.
+\newblock \url{http://scikit-image.org/docs/dev/api/skimage.exposure.html}.
+
+\bibitem{website:photodoto}
+{\sc Young, N.}
+\newblock How to make instagram filters in photoshop: Nashville and 1997.
+\newblock
+  \url{http://photodoto.com/instagram-filters-in-photoshop-nashville-1997/},
+  August 2014.
+
+\end{thebibliography}
